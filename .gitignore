@@ -1,4 +1,5 @@
 /paper.io.sessdsa/*
 !/paper.io.sessdsa/readme.txt
 /saves/*
-
+/.idea/
+/__pycache__/
