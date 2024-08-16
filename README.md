@@ -1,6 +1,6 @@
 # DQN-based AI for Paper.io (Local Simulation)
 
-This project implements a Deep Q-Network (DQN) based AI agent designed to play a locally simulated version of the game Paper.io. The project was developed during a summer internship at Peking University.
+This project implements a Deep Q-Network (DQN) based AI agent designed to play a locally simulated version of the game Paper.io. This project was developed collaboratively during an internship at Peking University in the summer of 2018.
 
 ## Project Structure
 
